@@ -6,7 +6,7 @@ license:             BSD3
 license-file:        LICENSE
 author:              rnunz
 maintainer:          raphnun@tuta.io
-copyright:           2019 Author name here
+copyright:           2019 Author Raphael Nunziata
 category:            Game
 build-type:          Simple
 cabal-version:       >=1.10

@@ -1,12 +1,11 @@
 name:                hangman
 version:             0.1.0.0
 synopsis:            Playing Hangman
---description:         Chris N Julie
 homepage:            Testing
 license:             BSD3
 license-file:        LICENSE
-author:              ruoovin
-maintainer:          example@example.com
+author:              rnunz
+maintainer:          raphnun@tuta.io
 copyright:           2019 Author name here
 category:            Game
 build-type:          Simple
